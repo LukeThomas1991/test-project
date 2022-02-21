@@ -1,0 +1,4 @@
+error/*
+node_modules/*
+values.js
+_ipfsMetas.json
